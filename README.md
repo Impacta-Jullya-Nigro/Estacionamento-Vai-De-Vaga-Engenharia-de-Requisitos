@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Gestores do Projeto:</b><br>
-  Humberto Lisboa &nbsp;|&nbsp; Jullya Mendonça &nbsp;|&nbsp; Melissa Ferreira
+  Humberto Lisboa | Jullya Mendonça | Melissa Ferreira
 </p>
 
 ---
