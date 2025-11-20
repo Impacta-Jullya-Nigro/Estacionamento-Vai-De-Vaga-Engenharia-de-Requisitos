@@ -2,7 +2,9 @@
 
 <p align="center">
   <b>Gestores do Projeto:</b><br>
-  Humberto Lisboa | Jullya Mendonça | Melissa Ferreira
+  Humberto Lisboa  | 2402662
+  Jullya Mendonça  | 2402577
+  Melissa Ferreira | 2403008
 </p>
 
 ---
@@ -47,9 +49,13 @@ Lista de ideias e funcionalidades iniciais do sistema.
 
 Coleta de informações junto a usuários e stakeholders para levantamento de requisitos.
 
-
 ---
 
+<h2>🔎 Pesquisa </h2>
+
+Relatório de pesquisas na WEb | Recursos de softwars existentes.
+
+---
 
 <h2>🏆 Critérios de Sucesso</h2>
 
@@ -66,3 +72,15 @@ Coleta de informações junto a usuários e stakeholders para levantamento de re
 - Registrar entrada e saída de veículos de forma clara.  
 - Identificar necessidades e expectativas dos usuários.  
 - Entregar documentação completa de requisitos para futura implementação do sistema.  
+
+---
+
+<h2>📈 Diagrama de Processo </h2>
+
+Diagrama de processo atual e da solução, do fluxo de entrada e saída de veículos.
+
+---
+
+<h2>📈 Protótipo </h2>
+
+Detalhamento de telas representando a jornada do cliente e as características de um negócio tecnológico
