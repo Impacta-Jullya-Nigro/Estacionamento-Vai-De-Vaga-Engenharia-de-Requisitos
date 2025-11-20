@@ -9,7 +9,7 @@
 
 ---
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow) 
+![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen) 
 ![Documentos](https://img.shields.io/badge/Documentos-PDF-blue) 
 ![Projeto](https://img.shields.io/badge/Portfólio-Impacta-purple)
 
