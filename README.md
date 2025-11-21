@@ -86,10 +86,15 @@ link - "https://docs.google.com/forms/d/e/1FAIpQLSfFEVxyLokb8QqhIUX5_VNgg6-C0O78
 
 Diagrama de processo atual e da solução, do fluxo de entrada e saída de veículos.
 
+💬 Caso precise de uma visualização mais clara faça o download do arquivo para ampliar.
+
 ---
 
 <h2>🖥️ Storyboard e Protótipo detalhado </h2>
 
 Detalhamento de telas representando a jornada do cliente e as características de um negócio tecnológico
 
+Protótipo - https://www.canva.com/design/DAG5RNHM5XM/Y5CjR6PEedsH5_epOTIPMg/edit?utm_content=DAG5RNHM5XM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Storyboard - https://www.canva.com/design/DAG5Qbl590Q/M_sJIWIGtN1N8vRMgaYYOA/edit?utm_content=DAG5Qbl590Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
