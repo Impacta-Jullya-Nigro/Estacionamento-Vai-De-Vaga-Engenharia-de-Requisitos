@@ -37,6 +37,24 @@ O projeto **"VAI DE VAGA"** tem como objetivo organizar e documentar os requisit
 - **Gerente do projeto e autoridade**  
 - **Critérios de sucesso**  
 
+--
+
+<h2>🏆 Critérios de Sucesso</h2>
+
+- TAP completo e aprovado pelos stakeholders.  
+- Levantamento de requisitos claro e detalhado.  
+- Brainstorming com ideias relevantes para o sistema.  
+- Entrevistas que identificaram necessidades reais dos usuários.  
+
+---
+
+<h2>🎯 Objetivos do Projeto</h2>
+
+- Organizar o controle de vagas do estacionamento.  
+- Registrar entrada e saída de veículos de forma clara.  
+- Identificar necessidades e expectativas dos usuários.  
+- Entregar documentação completa de requisitos para futura implementação do sistema.  
+
 ---
 
 <h2>💡 Brainstorming</h2>
@@ -57,30 +75,19 @@ Relatório de pesquisas na WEb | Recursos de softwars existentes.
 
 ---
 
-<h2>🏆 Critérios de Sucesso</h2>
+<h2>📋 Formulário </h2>
 
-- TAP completo e aprovado pelos stakeholders.  
-- Levantamento de requisitos claro e detalhado.  
-- Brainstorming com ideias relevantes para o sistema.  
-- Entrevistas que identificaram necessidades reais dos usuários.  
+Forms para tabulção que tem como objetivo confirmar e priorizar os requisitos do sistema de administração do estacionamento.
 
 ---
-
-<h2>🎯 Objetivos do Projeto</h2>
-
-- Organizar o controle de vagas do estacionamento.  
-- Registrar entrada e saída de veículos de forma clara.  
-- Identificar necessidades e expectativas dos usuários.  
-- Entregar documentação completa de requisitos para futura implementação do sistema.  
-
----
-
 <h2>📈 Diagrama de Processo </h2>
 
 Diagrama de processo atual e da solução, do fluxo de entrada e saída de veículos.
 
 ---
 
-<h2>📈 Protótipo </h2>
+<h2>🖥️ Storyboard e Protótipo detalhado </h2>
 
 Detalhamento de telas representando a jornada do cliente e as características de um negócio tecnológico
+
+
