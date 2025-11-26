@@ -77,7 +77,7 @@ Relatório de pesquisas na WEb | Recursos de softwars existentes.
 
 <h2>📋 Formulário </h2>
 
-Forms para tabulção que tem como objetivo confirmar e priorizar os requisitos do sistema de administração do estacionamento.
+Forms para tabulação que tem como objetivo confirmar e priorizar os requisitos do sistema de administração do estacionamento.
 
 link - "https://docs.google.com/forms/d/e/1FAIpQLSfFEVxyLokb8QqhIUX5_VNgg6-C0O78QtBVqICmQNSKkDW7wg/viewform"
 
